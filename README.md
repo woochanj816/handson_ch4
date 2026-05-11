@@ -1,1 +1,12 @@
-# -4-
+# Softmax Regression from Scratch
+
+Exercise 12: 조기 종료를 사용한 배치 경사 하강법으로 소프트맥스 회귀를 구현(사이킷런 사용x)
+
+Main goals:
+
+- Implement Softmax function
+- Implement Cross-Entropy Loss
+- Implement Batch Gradient Descent
+- Add L2 Regularization
+- Use Early Stopping
+- Visualize Learning Curve and Decision Boundary
